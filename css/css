@@ -287,7 +287,7 @@ body {
 
 .bottom .custom-box2 {
     position: absolute;
-    top: 3475px;
+    top: 3525px;
     left: 450px;
     width: 275px;
     height: 30px;
@@ -303,7 +303,7 @@ body {
 }
 .bottom .custom-box3 {
     position: absolute;
-    top: 3475px;
+    top: 3525px;
     left: 780px;
     width: 275px;
     height: 30px;
@@ -320,7 +320,7 @@ body {
 
 .bottom .custom-box4 {
     position: absolute;
-    top: 3475px;
+    top: 3525px;
     left: 1070px;
     width: 70px;
     height: 30px;
